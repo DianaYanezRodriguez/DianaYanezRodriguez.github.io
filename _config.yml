@@ -1,8 +1,8 @@
 # Site settings
 title: DNA TATTOO
 description: chem
-baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://DianaYanezRodriguez.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dianayanezrodriguez.github.io"
 author:
 
 # Collection settings
